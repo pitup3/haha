@@ -1,0 +1,12 @@
+{
+  "name": "chatroom",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app123.js"
+  },
+  "dependencies": {
+    "express": "3.2.6",
+    "jade": "*"
+  }
+}
